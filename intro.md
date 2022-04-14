@@ -1,4 +1,4 @@
-<h1 alight="center">whoami?</h1><br><br>
+<h1 alight="center">whoami?</h1>
 <h3 align="center">I am Livey</h3>
 
 <h3 align="left">Connect with me:</h3>
