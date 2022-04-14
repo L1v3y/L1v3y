@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/103556855/163296951-82dcc712-b9bc-426b-898d-c3c4033c416c.png)
 <h1 alight="center">whoami?</h1>
-<h3 align="center">I am Livey</h3>
+<h2 align="left">I am Livey</h3>
 
 - Cyber Security Nerd</h3>
 - Repo For SRM</h3>
