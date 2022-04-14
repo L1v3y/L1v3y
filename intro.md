@@ -1,9 +1,9 @@
 <h1 alight="center">whoami?</h1>
 <h3 align="center">I am Livey</h3>
 
-<h3 align="left">Cyber Security Nerd</h3>
-<h3 align="left">Repo For SRM</h3>
-<h3 align="left">"Time Is Sprinting"</h3>
+<h5 align="left">- Cyber Security Nerd</h3>
+<h5 align="left">- Repo For SRM</h3>
+<h5 align="left">"Time Is Sprinting"</h3>
 <p align="left">
 </p>
 
