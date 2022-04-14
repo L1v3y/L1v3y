@@ -10,6 +10,6 @@
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l1v3y&show_icons=true&locale=en&layout=compact&title_color=ffe747&bg_color=1E293B&text_color=E2E8F0&icon_color=ffe747&hide_border=true" alt="l1v3y" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l1v3y&show_icons=true&locale=en&layout=compact&title_color=ffffff&bg_color=000000&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="l1v3y" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l1v3y&show_icons=true&locale=en&title_color=ffe747&bg_color=1E293B&text_color=E2E8F0&icon_color=ffe747&hide_border=true" alt="l1v3y" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l1v3y&show_icons=true&locale=ent&title_color=ffffff&bg_color=000000&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="l1v3y" /></p>
