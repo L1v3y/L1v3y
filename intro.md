@@ -1,11 +1,10 @@
 <h1 alight="center">whoami?</h1>
 <h3 align="center">I am Livey</h3>
 
-<h5 align="left">- Cyber Security Nerd</h3>
-<h5 align="left">- Repo For SRM</h3>
-<h5 align="left">"Time Is Sprinting"</h3>
-<p align="left">
-</p>
+- Cyber Security Nerd</h3>
+- Repo For SRM</h3>
+- "Time Is Sprinting"
+
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
