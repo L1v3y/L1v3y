@@ -12,4 +12,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l1v3y&show_icons=true&locale=en&layout=compact&title_color=ffffff&bg_color=000000&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="l1v3y" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l1v3y&show_icons=true&locale=ent&title_color=ffffff&bg_color=000000&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="l1v3y" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l1v3yk&show_icons=true&title_color=ffffff&bg_color=000000&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="l1v3y" /></p>
