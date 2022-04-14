@@ -2,9 +2,9 @@
 <h1 alight="center">whoami?</h1>
 <h2 align="center">── 卐 I am Livey 卐 ──</h3>
 
-- Cyber Security Nerd</h3>
-- Repo For SRM</h3>
-- "Time Is Sprinting"
+<h3 align="left">⛦ Cyber Security Nerd</h3>
+<h3 align="left">⛦ Repo For SRM</h3>
+<h3 align="left">⛦ "Time Is Sprinting"</h3>
 
 
 <h3 align="left">Languages:</h3>
