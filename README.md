@@ -7,6 +7,5 @@
 <h4 align="left">⛦ "Time Is Sprinting"</h4>
 
 
-<p><img src="https://tryhackme-badges.s3.amazonaws.com/livey..png" alt="TryHackMe"></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l1v3y&show_icons=true&locale=en&layout=compact&title_color=ffffff&bg_color=000000&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="l1v3y" /></p>
+<p><img src="https://tryhackme-badges.s3.amazonaws.com/livey..png" alt="TryHackMe">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l1v3y&show_icons=true&locale=en&layout=compact&title_color=ffffff&bg_color=000000&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="l1v3y" /></p>
