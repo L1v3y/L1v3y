@@ -7,6 +7,6 @@
 <h4 align="left">⛦ "Time Is Sprinting"</h4>
 
 
-<p><script src="https://tryhackme.com/badge/677414"></script></p>
+<p><img src="https://tryhackme-badges.s3.amazonaws.com/livey..png" alt="TryHackMe"></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l1v3y&show_icons=true&title_color=ffffff&bg_color=000000&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="l1v3y" /></p>
